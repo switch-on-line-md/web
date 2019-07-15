@@ -157,7 +157,7 @@ header {
     background-position: center;
     background-image: url('../img/n/Filtered-vs-Bottled-Water.jpg'); //original: ../img/header.jpg
     text-align: center;
-    color: white; //white
+    color: black; //white
     .header-content {
         position: relative;
         text-align: center;
@@ -175,7 +175,7 @@ header {
             }
             p {
                 font-weight: 300;
-                color: rgba(white, .7); //white
+                color: rgba(black, .7); //white
                 font-size: 16px;
                 margin-bottom: 50px;
             }
