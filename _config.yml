@@ -11,9 +11,10 @@ github_username: dominique120
 # Build settings
 markdown: kramdown
 
+google_site_verification: i_2XqOofjb7L5RxxP_aOa1eI352Xj8x6Jbo9hvUaHjM
+
 plugins:
-  #- jekyll-seo-tag
+  - jekyll-seo-tag
   - jekyll-sitemap
   - jemoji
 
-  google_site_verification: i_2XqOofjb7L5RxxP_aOa1eI352Xj8x6Jbo9hvUaHjM
