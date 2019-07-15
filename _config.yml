@@ -12,7 +12,7 @@ github_username: dominique120
 markdown: kramdown
 
 plugins:
-  - jekyll-seo-tag
+  #- jekyll-seo-tag
   - jekyll-sitemap
   - jemoji
 
