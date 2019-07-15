@@ -1,7 +1,7 @@
 # Site settings
 title: Switch Online MD S.A.
 email: marketing1@corporaciongrubal.com
-description: > Bienvenido a la pagina web de Switch Online MD S.A., una empresa especializada en...
+description: Bienvenido a la pagina web de Switch Online MD S.A., una empresa especializada en...
 baseurl: "/web/" # the subpath of your site, e.g. /blog/
 url: "https://switch-on-line-md.github.io" # the base hostname & protocol for your site
 
