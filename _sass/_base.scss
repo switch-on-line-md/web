@@ -148,23 +148,13 @@ aside {
 }
 
 // Homepage Header
-
-#myVideo {
-    position: fixed;
-    right: 0;
-    bottom: 0;
-    min-width: 100%;
-    min-height: 100%;
-  }
-
 header {
     position: relative;
     width: 100%;
     min-height: auto;
     @include background-cover;
     background-position: center;
-    //background-image: url('../video/95.mp4'); //original: ../img/header.jpg
-    //background-image: url('../img/n/Filtered-vs-Bottled-Water.jpg');
+    background-image: url('../img/n/Filtered-vs-Bottled-Water.jpg'); //original: ../img/header.jpg
     text-align: center;
     color: black; //white
     .header-content {
