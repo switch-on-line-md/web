@@ -147,33 +147,23 @@ aside {
     }
 }
 
+//stuff for video background
 #container {
     overflow: hidden;
     height: 1080px;
     background: #edeae8;
     position: relative;
   }
-
 video {
     position: absolute;
     /* Horizontally center*/
     left: 50%;
     transform: translateX(-50%);
-    //Could do vertial centering too, depending upon your requirements:
+
     top: 50%;
     transform: translate(-50%, -50%);
-    
-    //But in practise I noticed just `top: 0;` fulfills our expectations pretty well (obviously will vary from video to video)
-    
-    top: 0;
   }
-
-  #overlay {
-    position: absolute;
-    top: 0; right: 0; left: 0; bottom: 0;
-    background: rgba(0,0,0,0.5);
-  }
-
+  
 // Homepage Header
 header {
     position: relative;
