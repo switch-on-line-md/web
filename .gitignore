@@ -5,3 +5,4 @@ _site/
 *.xcf
 /img/src/*
 /img/n/*
+/video/src/*
