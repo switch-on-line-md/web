@@ -154,7 +154,7 @@ aside {
     position: relative;
   }
 
-  video {
+video {
     position: absolute;
     /* Horizontally center*/
     left: 50%;
@@ -180,7 +180,7 @@ header {
     position: relative;
     width: 100%;
     min-height: auto;
-    //@include background-cover;
+    @include background-cover;
     background-position: center;
     //background-image: url('../img/n/Filtered-vs-Bottled-Water.jpg'); //original: ../img/header.jpg
     text-align: center;
