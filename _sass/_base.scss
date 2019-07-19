@@ -148,12 +148,11 @@ aside {
 }
 
 //stuff for video background
-#videocontainer {
+#container {
     overflow: hidden;
     height: 1080px;
     background: #edeae8;
-    position: fixed; //relative
-    background-attachment: fixed;
+    position: fixed; //relative   
   }
 video {
     position: fixed; //absolute
@@ -163,8 +162,6 @@ video {
 
     top: 50%;
     transform: translate(-50%, -50%);
-
-    background-attachment: fixed;
   }
 
 // Homepage Header
