@@ -147,22 +147,27 @@ aside {
     }
 }
 
+#services {
+    background: #edeae8;
+}
+#contact {
+    background: #edeae8;
+}
 //stuff for video background
 #container {
-    overflow: hidden;
-    height: 1080px;
-    background: #edeae8;
-    position: fixed; //relative   
-  }
-video {
-    position: fixed; //absolute
-    /* Horizontally center*/
-    left: 50%;
-    transform: translateX(-50%);
-
-    top: 50%;
-    transform: translate(-50%, -50%);
-  }
+    overflow:hidden;
+    height:1080px;
+    background:#edeae8;
+    position:relative;
+    z-index: -1
+   }
+   video {
+    position: fixed;
+    left:50%;
+    transform:translateX(-50%);
+    top:50%;
+    transform:translate(-50%, -50%)
+   }
 
 // Homepage Header
 header {
