@@ -171,6 +171,7 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: center;
+    background-attachment: fixed;
     //background-image: url('../img/n/Filtered-vs-Bottled-Water.jpg'); //original: ../img/header.jpg
     text-align: center;
     color: white; //white
