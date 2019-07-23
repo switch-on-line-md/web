@@ -1,6 +1,7 @@
 <section class="no-padding" id="portfolio">
     <div class="container-fluid">
         <div class="row no-gutter">
+                {% for post in site.posts %}
             <div class="col-lg-4 col-sm-6">
                 <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-box" data-toggle="modal">
                     <img src="img/portfolio/1.jpg" class="img-responsive" title="filtro u450" alt="modelo u450 cartucho carbon activado con accesorios">
@@ -16,6 +17,7 @@
                     </div>
                 </a>
             </div>
+            {% endfor %}
             <div class="col-lg-4 col-sm-6">
                 <a href="#" class="portfolio-box">
                     <img src="img/portfolio/2.jpg" class="img-responsive" title="filtro ot32" alt="modelo ot32 cartucho carbon activado y polipropileno con accesorios">
