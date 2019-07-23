@@ -2,7 +2,7 @@
 title: Round Icons
 subtitle: Graphic Design
 layout: default
-modal-id: 6
+modal-id: 1
 date: 2014-07-15
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
