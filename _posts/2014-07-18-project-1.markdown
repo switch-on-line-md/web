@@ -10,7 +10,7 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description:  Filtro modelo OT32 tiene los siguientes beneficios <br> Elimina el exceso de sales y minerales, el moho, el polvo y sedimento del agua. Suprime el mal olor y el sabor del agua de caño. Suaviza el agua dura de Lima, ayudando de esta manera a sus electrodomésticos. No corroe el metal.  Recomendado para las casas en Lima y casas de playa Tiene las siguientes características Se instala debajo del lavadero. Utiliza 2 tanques de filtración, que miden 30cm.x12cm. cada uno. Usa un cartucho de carbón y uno de polipropileno que son reemplazables entre 4 y 6 meses.
+description:  Filtro modelo OT32 tiene los siguientes beneficios. Elimina el exceso de sales y minerales, el moho, el polvo y sedimento del agua. Suprime el mal olor y el sabor del agua de caño. Suaviza el agua dura de Lima, ayudando de esta manera a sus electrodomésticos. No corroe el metal.  Recomendado para las casas en Lima y casas de playa Tiene las siguientes características. Se instala debajo del lavadero. Utiliza 2 tanques de filtración, que miden 30cm.x12cm. cada uno. Usa un cartucho de carbón y uno de polipropileno que son reemplazables entre 4 y 6 meses.
 ---
 
 
