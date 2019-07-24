@@ -1,10 +1,10 @@
 ---
-title: Dre  ams
+title: Modelo U450
 subtitle: Website Design
 layout: front
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
+img: 1.jpg
 thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: April 2014
@@ -13,7 +13,6 @@ category: Web Development
 description:  Este filtro modelo U450 tiene los siguientes beneficios Elimina el exceso de plomo, cloro y moho. Suprime el mal olor y el sabor de agua de caño. Tendrá agua filtrada y pura libre de impurezas.Tiene las siguientes características. Se instala debajo del lavadero. Utiliza 1 tanque de filtración que mide30cm.x12cm Usa un cartucho de carbón que es reemplazable entre 4y 6 meses.
 
 ---
-# Modelo U450
 ### Este filtro modelo **U450** tiene los siguientes beneficios:
 - Elimina el exceso de plomo, cloro y moho.
 - Tendrá agua filtrada y pura libre de impurezas.

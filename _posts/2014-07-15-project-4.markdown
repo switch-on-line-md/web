@@ -1,10 +1,10 @@
 ---
-title: Treehouse
+title: Modelo BF7
 subtitle: Website Design
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
+img: 4.jpg
 thumbnail: treehouse-thumbnail.png
 alt: image-alt
 project-date: April 2014
@@ -12,7 +12,6 @@ client: Start Bootstrap
 category: Web Development
 description: Este filtro modelo BF7 tiene los siguientes beneficios Elimina el exceso de sales y minerales, el moho, el polvo y sedimento del agua. Suprime el mal olor y el sabor del agua de caño. Suaviza el agua dura de Lima, ayudando de esta manera a sus electrodomésticos. No corroe el metal. Tiene las siguientes características Se instala a la entrada de la casa. Está recomendado para las casas en Lima y casas de playa sobretodo. Utiliza 1 tanque de filtración, que mide 30cm.x18cm. Usa un cartucho de polipropileno, reemplazable entre 4 y 6 meses
 ---
-# Modelo BF7
 ### Este filtro modelo **BF7** tiene los siguientes beneficios: 
 - Elimina el exceso de sales y minerales, el moho, el polvo y sedimento del agua.
 - Suprime el mal olor y el sabor del agua de caño.

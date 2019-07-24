@@ -1,10 +1,10 @@
 ---
-title: Golden
+title: Modelo OT5
 subtitle: Website Design
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
+img: 3.jpg
 thumbnail: golden-thumbnail.png
 alt: image-alt
 project-date: April 2014
@@ -12,7 +12,6 @@ client: Start Bootstrap
 category: Web Development
 description: Modelo OT5 Este filtro modelo OT5 tiene los siguientes beneficios Elimina el exceso de sales y minerales, el moho, el polvo y sedimento del agua. Suprime el mal olor y el sabor del agua de caño. Suaviza el agua dura de Lima, ayudando de esta manera a sus electrodomésticos. No corroe el metal. Está recomendado para las casas en Lima y casas de playa Tiene las siguientes características Se instala debajo del lavadero. Utiliza 3 tanques de filtración, que miden 30cm.x12cm. cada uno. Usa un cartucho de carbón y dos de polipropileno que son reemplazables entre 4 y 6 meses.
 ---
-# Modelo OT5
 ### Este filtro modelo **OT5** tiene los siguientes beneficios:
 - Elimina el exceso de sales y minerales, el moho, el polvo y sedimento del agua.
 - Suprime el mal olor y el sabor del agua de caño.
