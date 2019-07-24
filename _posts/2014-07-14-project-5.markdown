@@ -10,6 +10,17 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Este filtro modelo RS200 especial para refrigeradoras tiene los siguientes beneficios Elimina el exceso de sales y minerales, el moho, el polvo y sedimento del agua. Suprime el mal olor y el sabor del agua. Excelente para los cubos de hielo. Protege el icemaker. Tiene las siguientes características Se instala en la refrigeradora. Está recomendado para las casas en Lima y casas de playa  Reemplazable entre 6 meses.
 
 ---
+# Modelo R200
+### Este filtro modelo RS200 especial para refrigeradoras tiene los siguientes beneficios:
+- Elimina el exceso de sales y minerales, el moho, el polvo y sedimento del agua.
+- Suprime el mal olor y el sabor del agua.
+- Excelente para los cubos de hielo.
+- Protege el icemaker.
+
+### Tiene las siguientes características:
+- Se instala en la refrigeradora.
+- Está recomendado para las casas en Lima y casas de playa 
+- Reemplazable entre 6 meses.
