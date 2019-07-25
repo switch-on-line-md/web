@@ -4,9 +4,10 @@ subtitle: Website Design
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: 3.jpg
-thumbnail: golden-thumbnail.png
-alt: image-alt
+img: 3_thumb.jpg
+thumbnail: 3_thumb.jpg
+thumb-alt: image-alt
+desc-alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development

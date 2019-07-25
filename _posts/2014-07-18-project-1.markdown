@@ -4,9 +4,10 @@ subtitle: Website Design
 layout: front
 modal-id: 1
 date: 2014-07-18
-img: 1.jpg
-thumbnail: dreams-thumbnail.png
-alt: image-alt
+img: 1_thumb.jpg
+thumbnail: 1_thumb.jpg
+thumb-alt: image-alt
+desc-alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
