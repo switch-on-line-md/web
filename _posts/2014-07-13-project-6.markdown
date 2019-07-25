@@ -1,9 +1,9 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Filtro UV
+subtitle: Filtro UV
 layout: default
 modal-id: 6
-date: 2014-07-15
+date: 2014-07-13
 img: 6.jpg
 thumbnail: roundicons-thumbnail.png
 thumb-alt: image-alt
@@ -11,6 +11,6 @@ desc-alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Aparte de estos filtros también contamos con los filtros UV y los de osmosis que son usados para provincia. Estos filtros eliminan el 99.9% de las bacterias en el agua. Cuenta con 2 tanques que se instalan debajo del lavadero y una luz ultravioleta encima de estos.
 ---
 Aparte de estos filtros también contamos con los filtros UV y los de osmosis que son usados para provincia. Estos filtros eliminan el 99.9% de las bacterias en el agua. Cuenta con 2 tanques que se instalan debajo del lavadero y una luz ultravioleta encima de estos.
