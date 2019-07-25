@@ -4,7 +4,7 @@ subtitle: Graphic Design
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: roundicons.png
+img: 6.jpg
 thumbnail: roundicons-thumbnail.png
 thumb-alt: image-alt
 desc-alt: image-alt
