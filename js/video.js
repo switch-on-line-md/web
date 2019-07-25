@@ -7,7 +7,7 @@
 */
 
 var video = document.querySelector('video')
-, container = document.querySelector('#container');
+, vidcointainer = document.querySelector('#vidcointainer');
 
 var setVideoDimensions = function () {
 // Video's intrinsic dimensions
@@ -18,19 +18,19 @@ var w = video.videoWidth
 // Will be more than 1 if W > H and less if W < H
 var videoRatio = (w / h).toFixed(2);
 
-// Get the container's computed styles
+// Get the vidcointainer's computed styles
 //
 // Also calculate the min dimensions required (this will be
-// the container dimentions)
-var containerStyles = window.getComputedStyle(container)
-  , minW = parseInt( containerStyles.getPropertyValue('width') )
-  , minH = parseInt( containerStyles.getPropertyValue('height') );
+// the vidcointainer dimentions)
+var vidcointainerStyles = window.getComputedStyle(vidcointainer)
+  , minW = parseInt( vidcointainerStyles.getPropertyValue('width') )
+  , minH = parseInt( vidcointainerStyles.getPropertyValue('height') );
 
 // What's the min:intrinsic dimensions
 //
-// The idea is to get which of the container dimension
+// The idea is to get which of the vidcointainer dimension
 // has a higher value when compared with the equivalents
-// of the video. Imagine a 1200x700 container and
+// of the video. Imagine a 1200x700 vidcointainer and
 // 1000x500 video. Then in order to find the right balance
 // and do minimum scaling, we have to find the dimension
 // with higher ratio.
