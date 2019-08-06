@@ -37,6 +37,11 @@
 $theme-primary: rgb(116, 195, 240); //original: #F05F40
 $theme-dark: #222; //original: #222
 
+//stuff for the contact section
+$colorPrimary: rgb(116, 195, 240);
+$space: 20px;
+$white: rgb(255, 255, 255);
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "mixins",
