@@ -447,6 +447,32 @@ body {
 
 // Three columns of contact info
 
+%clearfix {
+    &:after {
+        display: block;
+        content: '';
+        clear: both;
+    }
+}
+
+%align-left {
+    text-align: left;
+}
+
+%align-right {
+    text-align: right;
+}
+
+%align-center {
+    text-align: center;
+}
+
+%no-bullet {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
 .three-shade-col {
     @extend %clearfix;
     @extend %align-center;
