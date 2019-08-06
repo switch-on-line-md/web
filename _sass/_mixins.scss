@@ -65,6 +65,19 @@
 	font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
 }
 
+$screen-xs: 480px;
+$screen-sm: 768px;
+$screen-md: 992px;
+$screen-lg: 1200px;
+
+$bpoints: (
+    'xsmall' : ( max-width: $screen-xs ),
+    'lsmall' : ( min-width: $screen-xs ),
+    'small'  : ( min-width:  $screen-sm ),
+    'medium' : ( min-width:  $screen-md ),
+    'large'  : ( min-width: $screen-lg )
+);
+
 @mixin breakpoint($mq) {
     @if map-has-key($bpoints, $mq) {
         @media #{inspect(map-get($bpoints, $mq))} {
