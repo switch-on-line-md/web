@@ -1,6 +1,6 @@
 ---
-title: Modelo U450
-subtitle: Website Design
+title: 
+subtitle: Modelo U450
 layout: front
 modal-id: 1
 date: 2014-07-18
