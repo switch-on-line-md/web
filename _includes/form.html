@@ -2,32 +2,15 @@
     <form action="https://getsimpleform.com/messages?form_api_token=<form_api_token>" method="post">
     <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
     <input type='hidden' name='redirect_to' value='<the complete return url e.g. http://fooey.com/thank-you.html>' />
-    <div class="row">
-      <div class="col-25">
-        <label for="fname">Nombre</label>
-      </div>
-      <div class="col-75">
-        <input type="text" id="fname" name="firstname" placeholder="Tu nombre..">
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-25">
-        <label for="lname">Aprellido</label>
-      </div>
-      <div class="col-75">
-        <input type="text" id="lname" name="lastname" placeholder="Tu Apellido..">
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-25">
-        <label for="subject">Asunto</label>
-      </div>
-      <div class="col-75">
-        <textarea id="subject" name="subject" placeholder="Tu consulta.." style="height:200px"></textarea>
-      </div>
-    </div>
-    <div class="row">
-      <input type="submit" value="Enviar">
-    </div>
+
+        <p class="h4 mb-4 text-center">Contact us</p>
+
+        <input id="defaultContactFormName" class="form-control mb-4" placeholder="Name" type="text">
+    
+        <input id="defaultContactFormEmail" class="form-control mb-4" placeholder="E-mail" type="email">
+    
+        <textarea class="form-control rounded-0" id="exampleFormControlTextarea2" rows="3" placeholder="Message"></textarea>
+    
+        <button class="btn btn-info btn-block" type="submit">Send</button>
     </form>
   </div>
