@@ -1,5 +1,5 @@
 ---
-title: 
+title:    
 subtitle: Modelo U450
 layout: front
 modal-id: 1
