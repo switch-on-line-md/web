@@ -1,6 +1,6 @@
 ---
 title: Modelo OT5
-subtitle: Website Design
+subtitle: Oficinas, Casas de Playa y de Campo
 layout: default
 modal-id: 3
 date: 2014-07-16

@@ -1,6 +1,6 @@
 ---
 title: Modelo BF7
-subtitle: Website Design
+subtitle: Casas, Casas de Playa y de Campo
 layout: default
 modal-id: 4
 date: 2014-07-15
