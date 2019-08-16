@@ -1,6 +1,6 @@
 ---
-title: Title
-subtitle: Subtitle
+title: Modelo OT32 UV
+subtitle: Lima, Playas y Provincias
 layout: default
 modal-id: 6
 date: 2014-07-13
