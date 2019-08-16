@@ -1,6 +1,6 @@
 ---
-title:    
-subtitle: Modelo U450
+title: Modelo U450
+subtitle: Casas
 layout: front
 modal-id: 1
 date: 2014-07-18
