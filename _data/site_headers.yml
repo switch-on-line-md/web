@@ -1,0 +1,9 @@
+# All the headers for the site are here:
+
+
+# Main Site Header #1
+site_header: BIENVENIDOS
+# Main Site Header Subtitle:
+site_sub_header: Sienta la experiencia, escoja pureza.
+# Main Site Header Button
+site_header_button: EMPIEZA AHORA
