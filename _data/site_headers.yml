@@ -1,9 +1,68 @@
-# All the headers for the site are here:
+#################################################################################
+#################################################################################
+################ All the headers for the site are here: #########################
+#################################################################################
+#################################################################################
 
-
+########### header.html START ################
 # Main Site Header #1
 site_header: BIENVENIDOS
 # Main Site Header Subtitle:
 site_sub_header: Sienta la experiencia, escoja pureza.
 # Main Site Header Button
-site_header_button: EMPIEZA 
+site_header_button: EMPIEZA AHORA
+########### header.html END ################
+
+########### call-to-action.html START ################
+call_to_action_title: Tenemos lo que usted necesita!
+call_to_action_text: Estamos orgullosos de nuestros productos. 
+                    A pesar de la industria y haber cambiado inmensamente con el tiempo, hay algunas cosas que se 
+                    mantienen constantes como son nuestra atención al detalle, la calidad de nuestros productos 
+                    y el cuidado para aquellos que los usan. Dese una vuelta por nuestra página, para obtener 
+                    una mejor idea de quiénes sómos y qué hacemos.
+########### call-to-action.html END ################
+
+########### before_products.html START ################
+before_products_title: Nuestros productos&#58;
+########### before_products.html END ################
+
+########### before_services.html START ################
+before_services_title: Nuestros servicios&#58;
+########### before_services.html END ################
+
+########### services.html START ################
+services_title: Estamos para servirlo
+
+first_service_title: Instalación Gratuita
+first_service_sub_title: No cobramos por la instalación.
+
+second_service_title: Servicio Inmediato
+second_service_sub_title: Coordinemos fecha y hora de su servicio.
+
+third_service_title: Siempre al Día
+third_service_sub_title: Materiales de primera línea, tecnología de vanguardia.
+
+fourth_service_title: Servicio Personalizado
+fourth_service_sub_title: Estamos a su servicio para atenderlo.
+########### services.html END ################
+
+########### after_products.html START ################
+after_products_title: Descargue la ficha tecnica de nuestros equipos.
+after_products_button: DESCARGAR
+########### after_products.html END ################
+
+########### ncontact.html START ################
+contact_title: Pongamonos en contacto&#58;
+
+section_1_title: Telefono
+section_1_sub_title_1: line 1
+section_1_sub_title_2: line 2
+
+section_2_title: Contact, etc
+section_2_sub_title_1: line 1
+section_2_sub_title_2: line 2
+
+section_3_title: Address
+section_3_sub_title_1: line 1
+section_3_sub_title_2: line 2
+########### ncontact.html START ################
