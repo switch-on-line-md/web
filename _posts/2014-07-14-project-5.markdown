@@ -23,4 +23,4 @@ description: Este filtro modelo RS200 especial para refrigeradoras tiene los sig
 ### Tiene las siguientes características:
 - Se instala en la refrigeradora.
 - Está recomendado para las casas en Lima y casas de playa 
-- Reemplazable entre 6 meses.
+- Se cambia cada 6 meses.
