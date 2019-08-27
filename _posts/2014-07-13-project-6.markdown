@@ -13,4 +13,4 @@ client: Start Bootstrap
 category: Web Development
 description: Aparte de estos filtros también contamos con los filtros UV y los de ósmosis que son usados para provincia. Estos filtros eliminan el 99.9% de las bacterias en el agua. Cuenta con 2 tanques que se instalan debajo del lavadero y una luz ultravioleta encima de éstos.
 ---
-Aparte de estos filtros también contamos con los filtros UV y los de osmosis que son usados para provincia. Estos filtros eliminan el 99.9% de las bacterias en el agua. Cuenta con 2 tanques que se instalan debajo del lavadero y una luz ultravioleta encima de éstos.
+Estos filtros UV son usados más que nada para provincia. La luz UV eliminan el 99.9% de las bacterias y microorganizmos en el agua. Cuenta con 2 tanques que se instalan debajo del lavadero y una luz ultravioleta encima de éstos.
