@@ -14,10 +14,10 @@ category: Web Development
 description: Este filtro modelo BF7 tiene los siguientes beneficios Elimina el exceso de sales y minerales, el moho, el polvo y sedimento del agua. Suprime el mal olor y el sabor del agua de caño. Suaviza el agua dura de Lima, ayudando de esta manera a sus electrodomésticos. No corroe el metal. Tiene las siguientes características Se instala a la entrada de la casa. Está recomendado para las casas en Lima y casas de playa sobretodo. Utiliza 1 tanque de filtración, que mide 30cm.x18cm. Usa un cartucho de polipropileno, reemplazable entre 4 y 6 meses
 ---
 ### Este filtro modelo **BF7** tiene los siguientes beneficios: 
-- Elimina el exceso de sales y minerales, el moho, el polvo y sedimento del agua.
+- Elimina el exceso de sales y minerales, dándole más claridad al agua.
 - Suprime el mal olor y el sabor del agua de caño.
 - Suaviza el agua dura de Lima, ayudando de esta manera a sus electrodomésticos.
-- No corroe el metal.
+- Absorbe las moléculas orgánicas presentes.
 
 ### Tiene las siguientes características:
 - Se instala a la entrada de la casa.
