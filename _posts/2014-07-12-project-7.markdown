@@ -1,4 +1,3 @@
-
 ---
 title: Modelo OT32 UV
 subtitle: Lima, Playas y Provincias
