@@ -1,4 +1,5 @@
 <!DOCTYPE HTML>
+
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -18,6 +19,15 @@
         gtag('js', new Date());
 
         gtag('config', 'UA-147343595-1');
+    </script>
+
+    <!--Used to find thank you message for form submition-->
+    <script type="text/javascript">
+        window.onload = (function () {
+            if (window.location.hash == '#thank-you') {
+                document.getElementById('thank-you-message').className = 'none';
+            }
+        })
     </script>
 
 
