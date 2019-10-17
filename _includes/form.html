@@ -1,28 +1,3 @@
-<!--
-
-<section id="form">
-  <div class="container">
-    <form action="https://getsimpleform.com/messages?form_api_token=a1a70be918ca59b2f68e9fb2f2b0dc04" method="post">
-      the redirect_to is optional, the form will redirect to the referrer on submission 
-    <input type='hidden' name='redirect_to' value='<the complete return url e.g. http://fooey.com/thank-you.html>' />
-
-      <p class="h4 mb-4 text-center">Contacto</p>
-
-      <input id="defaultContactFormName" class="form-control mb-4" placeholder="Nombre" type="text">
-      <br>
-
-      <input id="defaultContactFormEmail" class="form-control mb-4" placeholder="E-mail" type="email">
-      <br>
-      <textarea class="form-control rounded-0" id="exampleFormControlTextarea2" rows="3"
-        placeholder="Mensaje"></textarea>
-      <br>
-      <button class="btn btn-info btn-block" type="submit">Send</button>
-    </form>
-  </div>
-</section>
-
--->
-
 <section id="form">
 
   <div class="container">
@@ -36,20 +11,24 @@
       <input name="_spam" value="message" type="hidden">
 
       <div class="form-group">
-        <label>Name</label>
-        <input name="name" class="form-control" type="text">
+        <label>Nombre</label>
+        <input name="name" class="form-control" style="padding-top: 5px;padding-bottom: 5px;" type="text">
       </div>
 
+      <div class="form-group">
+        <label>Telefono</label>
+        <input name="phone" class="form-control" style="padding-top: 5px;padding-bottom: 5px;" type="tel">
+      </div>
+<!--
       <div class="form-group">
         <label>Address</label>
-        <textarea name="address" rows="8" class="form-control"></textarea>
+        <textarea name="address" rows="4" class="form-control"></textarea>
       </div>
-
+    -->
       <div class="form-group">
-        <label>Message</label>
+        <label>Mensage</label>
         <textarea type="text" name="message" class="form-control"></textarea>
       </div>
-
 
       <button type="submit" class="btn btn-primary">Submit</button>
     </form>
