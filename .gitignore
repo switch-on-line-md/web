@@ -1,8 +1,6 @@
-_site/
-.sass-cache/
-.jekyll-cache/
+_site
+.sass-cache
+.jekyll-cache
 .jekyll-metadata
-*.xcf
-/img/src/*
-/img/n/*
-/video/src/*
+vendor/
+.bundle/
