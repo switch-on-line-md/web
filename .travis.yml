@@ -2,5 +2,5 @@ sudo: required
 dist: trusty
 language: ruby
 rvm:
-  - 2.2.5
+  - 2.6.3
 script: "bundle exec jekyll build"
