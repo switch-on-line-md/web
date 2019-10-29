@@ -4,3 +4,8 @@ _site
 .jekyll-metadata
 vendor/
 .bundle/
+
+*.xcf
+/img/src/*
+/ing/n/*
+/video/src/*
